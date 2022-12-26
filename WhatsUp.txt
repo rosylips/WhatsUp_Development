@@ -11,3 +11,9 @@ Author: Kanimozhi
 4.Attachments(Image,Audio,Video) code
 
 5.Hide Last seen
+
+6.Adding audion feature
+
+7.Adding video feature
+
+
